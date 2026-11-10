@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\first project oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\first project oop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\first project oop.AssemblyInfo.cs
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\first project oop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\first project oop.sourcelink.json
+C:\Users\User\Desktop\oop\first-project\oop project\bin\Debug\net10.0\first project oop.exe
+C:\Users\User\Desktop\oop\first-project\oop project\bin\Debug\net10.0\first project oop.deps.json
+C:\Users\User\Desktop\oop\first-project\oop project\bin\Debug\net10.0\first project oop.runtimeconfig.json
+C:\Users\User\Desktop\oop\first-project\oop project\bin\Debug\net10.0\first project oop.dll
+C:\Users\User\Desktop\oop\first-project\oop project\bin\Debug\net10.0\first project oop.pdb
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\first project oop.dll
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\refint\first project oop.dll
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\first project oop.pdb
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\first project oop.genruntimeconfig.cache
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\ref\first project oop.dll
+C:\Users\User\Desktop\oop\first-project\oop project\obj\Debug\net10.0\first pr.3B6A79B3.Up2Date
